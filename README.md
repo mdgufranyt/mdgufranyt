@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdgufranyt&label=Profile%20views&color=0e75b6&style=flat" alt="mdgufranyt" /> </p>
 
-- 🔭 I’m currently working on [ChatsApp](https://github.com/mdgufranyt/ChatsApp)
+- 🔭 I’m currently working on [Business-Card-Management-App](https://github.com/mdaazam0786/Business-Card-Management-App)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
