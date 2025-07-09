@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android, DSA and Entrepreneurship**
 
-- 📫 How to reach me **mdgufranyt@gmail.com**
+- 📫 How to reach me **mdgufranyt25@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
