@@ -311,17 +311,17 @@
   </a>
 </kbd>
 
-<!-- <kbd>
-  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
+<kbd>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=restassured"
+        srcset="https://skillicons.dev/icons?i=firebase"
       />
-      <img src="https://skillicons.dev/icons?i=restassured&theme=light" alt="icons" />
+      <img src="https://skillicons.dev/icons?i=firebase&theme=light" alt="icons" />
     </picture>
   </a>
-</kbd> -->
+</kbd>
 
 <kbd>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
