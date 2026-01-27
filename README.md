@@ -106,20 +106,20 @@
   </a>
 </kbd>
 
-<!-- <kbd>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<kbd>
+  <a href="https://https://www.java.com/en/" target="_blank" rel="noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=django"
+        srcset="https://skillicons.dev/icons?i=java"
       />
       <img
-        src="https://skillicons.dev/icons?i=django&theme=light"
+        src="https://skillicons.dev/icons?i=java&theme=light"
         alt="icons"
       />
     </picture>
   </a>
-</kbd> -->
+</kbd>
 
 <kbd>
   <a
@@ -203,29 +203,17 @@
   </a>
 </kbd>
 
-<!-- <kbd>
-  <a href="https://tanstack.com/query" target="_blank" rel="noreferrer">
-    <picture >
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/TanStack/query/refs/heads/main/media/emblem-light.svg"
-      />
-      <img src="https://raw.githubusercontent.com/TanStack/query/refs/heads/main/media/emblem-light.svg" alt="icons"  height="48" width="48"/>
-    </picture>
-  </a>
-</kbd> -->
-
-<!-- <kbd>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+ <kbd>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=nestjs"
+        srcset="https://skillicons.dev/icons?i=selenium"
       />
-      <img src="https://skillicons.dev/icons?i=nestjs&theme=light" alt="icons" />
+      <img src="https://skillicons.dev/icons?i=selinium&theme=light" alt="icons" />
     </picture>
   </a>
-</kbd> -->
+</kbd> 
 
 <kbd>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
@@ -284,22 +272,7 @@
   </a>
 </kbd>
 
-<!-- <kbd>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
-      />
-      <img
-        src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
-        alt="icons"
-        height="50"
-        width="50"
-      />
-    </picture>
-  </a>
-</kbd> -->
+
 
 <kbd>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -312,6 +285,8 @@
     </picture>
   </a>
 </kbd>
+
+
 <kbd>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <picture>
@@ -337,13 +312,13 @@
 </kbd>
 
 <!-- <kbd>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=prisma"
+        srcset="https://skillicons.dev/icons?i=restassured"
       />
-      <img src="https://skillicons.dev/icons?i=prisma&theme=light" alt="icons" />
+      <img src="https://skillicons.dev/icons?i=restassured&theme=light" alt="icons" />
     </picture>
   </a>
 </kbd> -->
